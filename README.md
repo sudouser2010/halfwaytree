@@ -7,7 +7,7 @@ Halfwaytree
     I started this project for my graduate CS research project at CTU. To add, Halfwaytree is feature 
     complete and I no longer intend on adding new functionality. I invite you to extend, fork 
     or even use this code as inspiration for your own symbolic execution project.
-[My Dissertation Regarding Halfwaytree](https://www.herbertdawkins.com/static/media/halfwaytree/herbert-dawkins-dissertation.pdf)  
+[My Dissertation Regarding Halfwaytree](https://www.herbertdawkins.com/static/media/uploads/herbert-dawkins-dissertation.pdf)  
 
 ### What Is Symbolic Execution ?
     Symbolic execution is a method for automatically generating test 

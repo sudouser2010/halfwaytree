@@ -1,0 +1,7 @@
+/dev
+*~
+*.ps
+.gitignore
+*.pyc
+example.png
+.idea/
